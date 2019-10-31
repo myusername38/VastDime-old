@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
+Here is a mock sketch up of how the web-app will look, created using Adobe XD
+
+https://xd.adobe.com/view/f5f52cc9-05f4-4b43-4d8c-b99691ad8994-83c4/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
